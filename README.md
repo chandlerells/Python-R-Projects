@@ -7,7 +7,7 @@ The purpose of this project is to provide a guide as to how to read in and proce
 * Create and fit basic `linear regression models`  
 * Create a `cross-validation` function to judge the models  
 
-[Basic SQL](ST 590 - Project 2 Part 2.html)
+[Basic SQL](ST\590\-\Project\2\Part\2.html)
 [Spark SQL & Pandas-on-Spark](`ST 590 - Project 2 Part 3.html`)
 The purpose of the first part of the project (top link) is to connect to a `Database` and summarize employee performance using basic `SQL` and plotting commands.
 The purpose of the second part of the project (bottom link) is to analyze NFL data across different seasons using `Spark SQL` and `Pandas-on-Spark`.
