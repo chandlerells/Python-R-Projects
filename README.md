@@ -9,8 +9,7 @@ The purpose of this project is to provide a guide as to how to read in and proce
 * Create a `cross-validation` function to judge the models  
 
 [Project 2: Basic SQL](ST590-Project2Part2.html)  
-[Project 2: Spark SQL & Pandas-on-Spark](ST590-Project2Part3.html)
-
+[Project 2: Spark SQL & Pandas-on-Spark](ST590-Project2Part3.html)  
 The purpose of the first part of the project (top link) is to connect to a `Database` and summarize employee performance using basic `SQL` and plotting commands.  
 The purpose of the second part of the project (bottom link) is to analyze NFL data across different seasons using `Spark SQL` and `Pandas-on-Spark`.
 
